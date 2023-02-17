@@ -1,0 +1,25 @@
+{
+  "name": "climate-change-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennnmarshall/climate-change-api.git"
+  },
+  "keywords": [],
+  "author": "jenn marshall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennnmarshall/climate-change-api/issues"
+  },
+  "homepage": "https://github.com/jennnmarshall/climate-change-api#readme",
+  "dependencies": {
+    "axios": "^1.3.3",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2"
+  }
+}
